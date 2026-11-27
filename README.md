@@ -24,13 +24,6 @@ Proyek ini adalah **Tugas Besar Machine Learning** yang dikerjakan dengan kerang
 
 **Solusi:** model klasifikasi biner (*legitimate* atau *phishing*) yang dilatih dari fitur yang diekstrak langsung dari teks URL, lalu dibungkus menjadi aplikasi web sederhana.
 
-## 📸 Tampilan Aplikasi
-
-<!-- Taruh screenshot di folder screenshots/ lalu pastikan nama filenya sama -->
-| URL aman | URL phishing |
-|:---:|:---:|
-| ![URL aman](screenshots/aman.png) | ![URL phishing](screenshots/phishing.png) |
-
 ## 🧠 Model dan Hasil
 
 Dataset: [Web Page Phishing Detection Dataset](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) (Kaggle), 11.429 URL setelah 1 duplikat dibuang, kelas seimbang (5.715 legitimate dan 5.714 phishing).
